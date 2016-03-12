@@ -2,8 +2,9 @@ c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\bin
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\bin\Debug\Sistema_cc.exe
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\bin\Debug\Sistema_cc.pdb
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.csprojResolveAssemblyReference.cache
-c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.Form1.resources
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.Properties.Resources.resources
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.csproj.GenerateResource.Cache
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.exe
 c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.Apartado.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Sistema_cc\Sistema_cc\obj\Debug\Sistema_cc.Inicio.resources

@@ -16,5 +16,13 @@ namespace Sistema_cc
         {
             InitializeComponent();
         }
+
+        private void apartadoDeHorasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Apartado f = new Apartado();            
+            f.Show();
+            this.Hide();
+            
+        }       
     }
 }
